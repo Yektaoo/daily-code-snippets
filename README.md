@@ -1,1 +1,1 @@
-# daily-code-snippets
+# daily-code-snippets یادداشت‌هایی از کدهایی که هر روز یاد می‌گیرید.
